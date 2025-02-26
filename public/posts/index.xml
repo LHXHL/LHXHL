@@ -21,11 +21,11 @@
       <description>FRP简介 gogogo</description>
     </item>
     <item>
-      <title>My First Post</title>
+      <title>First</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 26 Feb 2025 17:34:12 +0800</pubDate>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>test test gogogo</description>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
   </channel>
 </rss>
