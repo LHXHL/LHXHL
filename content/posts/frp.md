@@ -1,9 +1,8 @@
 ---
-title = 'FRP二开功能魔改&免杀'
-date = 2025-02-26T11:49:26+08:00
-draft = true
+date: '2025-02-26T17:34:32+08:00'
+draft: true
+title: 'Frp功能魔改&免杀二开细节'
 ---
 
-# 简介
-sssss
-
+# FRP简介
+gogogo
