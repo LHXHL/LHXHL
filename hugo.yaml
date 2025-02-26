@@ -1,5 +1,5 @@
-baseURL: "https://lhxhl.pages.dev/"
-title: MieeQ
+baseURL: "https://vhsww1.top/"
+title: 秋勒个秋
 paginate: 5
 theme: PaperMod
 
@@ -14,7 +14,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: 秋勒个秋
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -71,7 +71,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Qiu"
     Content: Welcome to my blog
 
   socialIcons:
