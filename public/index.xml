@@ -11,14 +11,21 @@
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Feb 2025 17:34:32 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 10:48:09 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golang红队开发技能-1</title>
+      <link>http://localhost:1313/posts/go-1/</link>
+      <pubDate>Sun, 09 Mar 2025 10:48:09 +0800</pubDate>
+      <guid>http://localhost:1313/posts/go-1/</guid>
+      <description>Golang红队开发</description>
+    </item>
     <item>
       <title>Frp功能魔改&amp;免杀二开细节</title>
       <link>http://localhost:1313/posts/frp/</link>
       <pubDate>Wed, 26 Feb 2025 17:34:32 +0800</pubDate>
       <guid>http://localhost:1313/posts/frp/</guid>
-      <description>FRP简介 gogogo</description>
+      <description>frp魔改</description>
     </item>
     <item>
       <title>First</title>
@@ -26,6 +33,14 @@
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Who Am I? ID: Qiu 红队白日梦选手 开发妄想选手 Skill Golang、Web、免杀、内网～
+项目 FRP二开 Fscan二开 资产测绘系统 </description>
     </item>
   </channel>
 </rss>

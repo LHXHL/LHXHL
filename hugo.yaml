@@ -43,14 +43,14 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
+    favicon: "imgs/avatar.png"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: ""
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -71,16 +71,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Qiu"
-    Content: Welcome to my blog
+    Title: "秋勒个秋"
+    Content: 曳红采之流离兮,飏翠气之宛
 
   socialIcons:
     - name: x
       url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: bilibili
+      url: "https://space.bilibili.com/281071914"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/LHXHL"
 
   analytics:
     google:
@@ -114,16 +114,20 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 10
+    - identifier: About
+      name: About
+      url: /about/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
