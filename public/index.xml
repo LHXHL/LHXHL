@@ -11,13 +11,20 @@
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Mar 2025 10:48:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 11:25:44 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Testpic</title>
+      <link>http://localhost:1313/posts/testpic/</link>
+      <pubDate>Sun, 09 Mar 2025 11:25:44 +0800</pubDate>
+      <guid>http://localhost:1313/posts/testpic/</guid>
+      <description>图片 https://www.yuweihung.com/posts/2021/hugo-blog-picture/ 相对优雅的解决方法</description>
+    </item>
+    <item>
       <title>Golang红队开发技能-1</title>
-      <link>http://localhost:1313/posts/go-1/</link>
+      <link>http://localhost:1313/posts/golearn/</link>
       <pubDate>Sun, 09 Mar 2025 10:48:09 +0800</pubDate>
-      <guid>http://localhost:1313/posts/go-1/</guid>
+      <guid>http://localhost:1313/posts/golearn/</guid>
       <description>Golang红队开发</description>
     </item>
     <item>
@@ -26,13 +33,6 @@
       <pubDate>Wed, 26 Feb 2025 17:34:32 +0800</pubDate>
       <guid>http://localhost:1313/posts/frp/</guid>
       <description>frp魔改</description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>About Me</title>
