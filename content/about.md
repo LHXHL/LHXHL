@@ -12,9 +12,9 @@ layout: "about"
 - Contact Me: cWl1Y2FyeXNAZ21haWwuY29tCg==
 
 ## Skill
-Golang、Web、免杀、内网～
+Program、Web、免杀、内网（妄想
 
 ## 项目
 - FRP二开
 - Fscan二开
-- 资产测绘系统
+- 小ASM
